@@ -1,0 +1,24 @@
+<svg id="Lager_1" data-name="Lager 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 266 73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Namnlös_övertoning_16);
+      }
+
+      .cls-2 {
+        font-size: 59.81px;
+        fill: #fff;
+        font-family: Corbel-Bold, Corbel;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+      }
+    </style>
+    <linearGradient id="Namnlös_övertoning_16" data-name="Namnlös övertoning 16" x1="53.73" y1="61.37" x2="20.78" y2="4.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffa415"/>
+      <stop offset="1" stop-color="#f1e0c5"/>
+    </linearGradient>
+  </defs>
+  <title>Rityta 1</title>
+  <path class="cls-1" d="M61.44,50.4c0,5.7-12.3,19.2-39.21,20.7C15,71.5,5,69.1,5,60c0-3.2-.5-3.7,11.1-19-2.8-.2-9.2-.5-9.2-3.9,0-4.3,14-4.5,17-5.4C30.44,25.4,37,17,47,17c-.7,1.7-1.4,3-9.7,12.7,22.6-3.1,27.9-9.9,27.7-12.6-.1-2.2-2.9-5.7-14.5-4.9-2.3.2-12.9,1.5-28.11,7,.6.3,1.4.7,1.4,1.5,0,1.5-2.3,2.1-3.6,2.3-6.2,1-8.1,1.9-13.9,3.8a10.05,10.05,0,0,1-3.1.7c-1.7,0-2.5-1-2.5-2.7,0-.7,1.5-4.3,4.6-8.4,2.1-2.8,5-6.6,8.4-7.9C23.43,4.8,42.14.9,52.54.9c17.2,0,21.3,6.8,21.3,12.2,0,16.2-30.3,20.3-42,22.6l-2,1.8C36.94,38.8,61.44,40.8,61.44,50.4ZM19.83,48.6c-1.3,1.4-3.5,3.6-3.5,5.7,0,4.3,7.9,5.5,11.11,5.5,8.9-.1,22.7-6.6,22.7-10.6,0-5.2-20.6-6.7-24.7-6.7Z"/>
+  <text class="cls-2" transform="translate(58.67 70) scale(1.28 1)">rolin</text>
+</svg>

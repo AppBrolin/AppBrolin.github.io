@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Namnlös_övertoning_22);
+      }
+
+      .cls-2 {
+        fill: url(#Namnlös_övertoning_16);
+      }
+
+      .cls-3 {
+        font-size: 59.81px;
+        fill: #fff;
+        font-family: BrushScriptStd, Brush Script Std;
+        letter-spacing: -0.03em;
+      }
+    </style>
+    <linearGradient id="Namnlös_övertoning_22" data-name="Namnlös övertoning 22" x1="559.14" y1="431.2" x2="-46.57" y2="81.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#170e01"/>
+      <stop offset="0.47" stop-color="#130b01"/>
+      <stop offset="0.96" stop-color="#060400"/>
+      <stop offset="1" stop-color="#050300"/>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_16" data-name="Namnlös övertoning 16" x1="351.22" y1="381.13" x2="186.14" y2="95.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffa415"/>
+      <stop offset="1" stop-color="#f1e0c5"/>
+    </linearGradient>
+  </defs>
+  <title>Rityta 1</title>
+  <g id="Lager_2" data-name="Lager 2">
+    <rect class="cls-1" x="0.28" y="0.35" width="512" height="512"/>
+  </g>
+  <g id="Lager_1" data-name="Lager 1">
+    <path class="cls-2" d="M389.82,326.15c0,28.56-61.63,96.21-196.41,103.72-36.08,2-86.18-10-86.18-55.62,0-16-2.51-18.54,55.61-95.2-14-1-46.09-2.5-46.09-19.54,0-21.54,70.14-22.54,85.18-27,32.56-31.57,65.63-73.66,115.74-73.66-3.51,8.52-7,15-48.6,63.64C382.3,206.9,408.86,172.83,407.86,159.3c-.5-11-14.53-28.56-72.65-24.55-11.53,1-64.64,7.52-140.8,35.07,3,1.51,7,3.51,7,7.52,0,7.52-11.52,10.52-18,11.52-31.07,5-40.59,9.52-69.65,19-4.51,1.51-10,3.51-15.53,3.51-8.52,0-12.53-5-12.53-13.53,0-3.5,7.52-21.54,23-42.09,10.52-14,25-33.06,42.09-39.58,48.6-18.54,142.3-38.08,194.41-38.08C431.41,78.13,452,112.2,452,139.26,452,220.43,300.13,241,241.51,252.5l-10,9C267.06,268,389.82,278.05,389.82,326.15Zm-208.44-9c-6.51,7-17.53,18-17.53,28.56,0,21.55,39.58,27.56,55.61,27.56,44.6-.5,113.74-33.07,113.74-53.11,0-26.05-103.22-33.57-123.76-33.57Z"/>
+    <text class="cls-3" transform="translate(282.67 424) scale(1.28 1)">rolin</text>
+  </g>
+</svg>
